@@ -1,0 +1,133 @@
+.haut{
+
+	text-align: center;
+	margin-top: 80px;
+}
+
+h1{
+
+	color: black;
+}
+
+#header{
+
+	height:70px;
+	background:green;
+}
+
+body{
+
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover; 
+	margin: 0px;
+}
+
+.textLog{
+
+	position: relative;
+	margin-top: 50px;
+	margin-left: 690px;	
+}
+
+.textMdp{
+
+	position: relative;
+	margin-top: 10px;
+	margin-left: 690px;	
+}
+
+.btnCo{
+
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+
+.btnIn{
+
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -10px;
+}
+
+.btnRedi{
+
+	position: relative;
+	margin-top: 20px;
+	margin-left: 730px;
+}
+
+.pseudo{
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.mail{
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.mdp{
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.adresse{
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.tel{
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.h3{
+	text-align: center;
+}
+
+.img{
+	text-align: center;
+}
+
+.nom{
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.prenom{
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.btnIn2{
+
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+
+.btncreer{
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+
+.error{
+	text-align: center;
+	color: crimson;
+
+}
